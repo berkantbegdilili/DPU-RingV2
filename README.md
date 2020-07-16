@@ -16,9 +16,9 @@
 > NOT: OKULLAR KAPALI OLDUĞU İÇİN A1 NOLU HATTIN SAAT VERİLERİ ÇEKİLMİŞTİR!
 
 # Imagery (Görüntüler)
-![run1](https://github.com/berkantbegdilili/DPU-RingV2/blob/master/img/images.png)
+![run1](https://github.com/berkantbegdilili/DPU-RingV2/blob/main/img/images.png)
 
-![run2](https://github.com/berkantbegdilili/DPU-RingV2/blob/master/img/ulasim.png)
+![run2](https://github.com/berkantbegdilili/DPU-RingV2/blob/main/img/ulasim.png)
 
  
 
