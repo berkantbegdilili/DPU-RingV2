@@ -1,10 +1,10 @@
 # Dumlupinar University - Ring Locations & Schedules v2 for iOS 14 (Prototype)
 
 #
-> EN: The DPU-Ring application that I made before was developed with SwiftUI and made compatible for iOS 14.
+> EN: The DPU-Ring application that I had made before was developed with SwiftUI and made compatible for iOS 14.
 
 #
-> TR: Daha önce yapmış olduğum DPU-Ring uygulamasını SwiftUI ile geliştirerek iOS 14 için uyumlu hale getirilmiştir.
+> TR: Daha önce yapmış olduğum DPU-Ring uygulamasını SwiftUI ile geliştirerek iOS 14 için uyumlu hale getirildi.
 
 
 [**Click for DPU-Ring v1**](https://github.com/berkantbegdilili/DPU-Ring "GitHub: DPU-Ring v1")
