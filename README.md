@@ -1,4 +1,4 @@
-# Dumlupinar University - Ring Locations & Schedules v2 for iOS 14
+# Dumlupinar University - Ring Locations & Schedules v2 for iOS 14 (Prototype)
 
 #
 > EN: The DPU-Ring application that I made before was developed with SwiftUI and made compatible for iOS 14.
