@@ -15,6 +15,9 @@
 #
 > NOT: OKULLAR KAPALI OLDUĞU İÇİN A1 NOLU HATTIN SAAT VERİLERİ ÇEKİLMİŞTİR!
 
+#
+[**Go to LinkedIn to watch the video!**](https://www.linkedin.com/posts/berkantbegdilili_swift-swiftui-ios14-activity-6689680123425247232-GXIm "LinkedIN: berkantbegdilili")
+
 # Imagery (Görüntüler)
 ![run1](https://github.com/berkantbegdilili/DPU-RingV2/blob/main/img/images.png)
 
